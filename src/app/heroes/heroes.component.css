@@ -1,4 +1,10 @@
 /* HeroesComponent's private CSS styles */
+h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px #333333;
+  color: #3f525c;
+}
 .heroes {
   margin: 0 0 2em 0;
   list-style-type: none;
